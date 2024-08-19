@@ -1,2 +1,2 @@
 SELECT * FROM Funcionarios
-ORDER by Cidade
+ORDER by UF
